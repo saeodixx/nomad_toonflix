@@ -16,3 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 ## 2026.03.14
 ui 기초를 배워따.
+
+## 2026.03.20
+뽀모도로 만들어따.
